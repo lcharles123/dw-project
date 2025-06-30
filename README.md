@@ -21,8 +21,3 @@ and running the server locally with
 The server will be acessible on http://localhost:3000
 
 You need to configure metabase with duckdb conector, mount the duckdb file from host machine to container and specify the path inside container in the `Metabase/Makefile` under `drun` target.
-<<<<<<< HEAD
-
-
-=======
->>>>>>> f8fb04f0ced39cd5541f5dbc1a295d99b4fc3238
